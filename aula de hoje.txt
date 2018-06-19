@@ -1,0 +1,17 @@
+DOM = 
+EVENTOS
+ALTERAR:
+-CONTEUDO (innerhtml)
+-CSS (.styles)
+-IDS E CLASSES
+EVENTOS DE TIMEOUT
+
+
+EXEMPLOS
+-MENU
+-CORES
+-PLAYER
+
+document é o nó raiz nosso HTML
+
+document.queryselector()  é o metodo..  
