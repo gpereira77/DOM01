@@ -12,3 +12,7 @@ function gatoCerto(){
 
 errado.onclick = gatoErrado;
 certo.onclick = gatoCerto;
+
+
+// setInterval troca no intervalo
+// setTimeout executa numm tempo 

@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    background-color: lightseagreen;
+}
+
+#temporizador{
+    color: red;
+    font-family: sans-serif;
+    font-size: 90pt;
+}
